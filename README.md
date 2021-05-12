@@ -12,7 +12,7 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
 
     All steps of preprocessing dataset
     
-- 02_logistic_regression.ipynb
+- 02_logistic_regression.ipynb (Polarity)
 
     After the preprocessing of data, how to build matrices that can be used as features.
     
