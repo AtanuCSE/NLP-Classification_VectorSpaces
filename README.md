@@ -1,6 +1,6 @@
 # NLP-Classification_VectorSpaces
 Code for the course "Natural Language Processing with Classification and Vector Spaces"
-(Audit Course)
+*(Audit Course)*
 
 Codes are based on the topics shown in the video; however, these do not match the same techniques shown in the videos.
 
