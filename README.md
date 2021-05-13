@@ -19,3 +19,11 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
     Feature extraction with countvectorizer, tf-idf vectorizer
     
     Finally, apply logistic regression. I used Scikit-Learn
+    
+- 03_nfold_Cross_logistic_regression.ipynb (Polarity)
+
+    nFold Cross validation on whole dataset
+    
+    **ROC Curve, Plot Confusion Matrix**
+    
+    **Hyperparameter Tuning**
