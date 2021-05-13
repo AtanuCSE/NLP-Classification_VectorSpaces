@@ -1,4 +1,4 @@
-# NLP-Classification_VectorSpaces
+# NLP-Classification-VectorSpaces
 Code for the course "Natural Language Processing with Classification and Vector Spaces"
 *(Audit Course)*
 
