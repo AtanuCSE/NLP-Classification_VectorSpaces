@@ -29,6 +29,7 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
     👉🏻 **Hyperparameter Tuning**
     
 - 04_Cosine_Similarity.ipynb
+
     Document by document cosine similarity <br/> The lower the better
     
     Using Fasttext and Spacy
