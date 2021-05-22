@@ -37,3 +37,7 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
  - 05_Word_Cloud.ipynb
 
    Word Cloud generation from Pandas column
+   
+ - 06_Top_Term_Frequency.ipynb
+
+    Top words with most count values across all classes
