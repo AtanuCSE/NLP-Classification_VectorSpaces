@@ -33,3 +33,7 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
     Document by document cosine similarity <br/> The lower the better
     
     Using Fasttext and Spacy
+    
+ - 05_Word_Cloud.ipynb
+
+   Word Cloud generation from Pandas column
