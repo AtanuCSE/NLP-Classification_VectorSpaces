@@ -41,3 +41,9 @@ https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome
  - 06_Top_Term_Frequency.ipynb
 
     Top words with most count values across all classes
+    
+ - 07_Top_Term_Metrices_Visualizer.ipynb
+ 
+    Visualize top terms for bi-class. CDF and Hmean are used instead of only word count frequency.
+  
+    **Bokeh** library is used.
